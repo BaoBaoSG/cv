@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'Cambria';
+    src: url('Cambria-Bold.woff2') format('woff2'),
+        url('Cambria-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cambria';
+    src: url('Cambria-Italic.woff2') format('woff2'),
+        url('Cambria-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Cambria';
+    src: url('Cambria.woff2') format('woff2'),
+        url('Cambria.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cambria';
+    src: url('Cambria-BoldItalic.woff2') format('woff2'),
+        url('Cambria-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+}
+

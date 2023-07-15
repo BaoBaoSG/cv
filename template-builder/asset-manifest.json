@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/template-builder/static/css/main.afd7172b.chunk.css",
+    "main.js": "/template-builder/static/js/main.b547a12b.chunk.js",
+    "main.js.map": "/template-builder/static/js/main.b547a12b.chunk.js.map",
+    "runtime-main.js": "/template-builder/static/js/runtime-main.e7fbeb04.js",
+    "runtime-main.js.map": "/template-builder/static/js/runtime-main.e7fbeb04.js.map",
+    "static/css/2.6b2add84.chunk.css": "/template-builder/static/css/2.6b2add84.chunk.css",
+    "static/js/2.1a9281c6.chunk.js": "/template-builder/static/js/2.1a9281c6.chunk.js",
+    "static/js/2.1a9281c6.chunk.js.map": "/template-builder/static/js/2.1a9281c6.chunk.js.map",
+    "static/js/3.7f251a44.chunk.js": "/template-builder/static/js/3.7f251a44.chunk.js",
+    "static/js/3.7f251a44.chunk.js.map": "/template-builder/static/js/3.7f251a44.chunk.js.map",
+    "index.html": "/template-builder/index.html",
+    "static/css/2.6b2add84.chunk.css.map": "/template-builder/static/css/2.6b2add84.chunk.css.map",
+    "static/css/main.afd7172b.chunk.css.map": "/template-builder/static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.1a9281c6.chunk.js.LICENSE.txt": "/template-builder/static/js/2.1a9281c6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7fbeb04.js",
+    "static/css/2.6b2add84.chunk.css",
+    "static/js/2.1a9281c6.chunk.js",
+    "static/css/main.afd7172b.chunk.css",
+    "static/js/main.b547a12b.chunk.js"
+  ]
+}
